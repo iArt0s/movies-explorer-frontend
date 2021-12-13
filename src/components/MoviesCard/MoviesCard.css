@@ -38,7 +38,7 @@
 }
 
 .card__save-btn {
-  background: url('../../images/save-btn.svg') no-repeat;
+  background: url('../../images/saved-btn.svg') no-repeat;
   border: none;
   cursor: pointer;
   width: 30px;
@@ -47,7 +47,7 @@
 }
 
 .card__save-btn_saved {
-  background: url('../../images/saved-btn.svg') no-repeat;
+  background: url('../../images/save-btn.svg') no-repeat;
 }
 
 .card__save-btn_remove {
